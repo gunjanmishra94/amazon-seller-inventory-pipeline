@@ -1,0 +1,14 @@
+
+-- Bronze data quality --
+- Warehouse stock: 1 record(s) showed a negative quantity on hand; will be treated as zero, not trusted as-is
+- Bundle recipes: 1 product(s) referenced in a bundle recipe don't exist in the product catalog (worth investigating)
+- Bundle recipes: 2 component(s) are missing a valid required quantity; will be treated as unavailable (0 units)
+- Product catalog: 5 used/returned product(s) will be excluded once the report is built
+
+-- Silver data quality --
+- Amazon stock feed: cleaned up 2 duplicate/corrected stock updates (2954 records -> 2952)
+
+-- Gold data quality --
+- Report: 119 of 2278 product/seller/day rows have no reliable recent sales data, so they can never be marked out of stock
+- Report: 254 row(s) are out of stock, 116 row(s) are overstocked
+- Report: every product/seller/day combination appears exactly once.

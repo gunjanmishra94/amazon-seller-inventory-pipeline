@@ -1,0 +1,93 @@
+ean_id,ean,brand,product_name
+2001,4000000000011,EK Coffee,Filter Coffee 250g
+2002,4000000000028,EK Coffee,Gift Bundle Coffee Component
+2003,4000000000035,EK Home,Gift Bundle Mug Component
+2004,4000000000042,EK Tea,Green Tea France
+2005,4000000000059,EK Coffee,Espresso Beans 500g
+2006,4000000000066,EK Accessories,Slow Moving Accessory
+2007,4000000000073,EK Home,Hydration Bottle
+2008,4000000000080,EK Home,Storage Jar
+2099,4000000000998,EK Accessories,Packaging Insert
+3000,4100000003000,EK Synthetic,Coffee Product 1100 Component 1
+3001,4100000003001,EK Synthetic,Coffee Product 1100 Component 2
+3002,4100000003002,EK Synthetic,Tea Product 1101
+3003,4100000003003,EK Synthetic,Home Product 1102
+3004,4100000003004,EK Synthetic,Kitchen Product 1103
+3005,4100000003005,EK Synthetic,Wellness Product 1104
+3006,4100000003006,EK Synthetic,Accessories Product 1105
+3007,4100000003007,EK Synthetic,Coffee Product 1106
+3008,4100000003008,EK Synthetic,Tea Product 1107 Component 1
+3009,4100000003009,EK Synthetic,Tea Product 1107 Component 2
+3010,4100000003010,EK Synthetic,Home Product 1108
+3011,4100000003011,EK Synthetic,Kitchen Product 1109
+3012,4100000003012,EK Synthetic,Wellness Product 1110
+3013,4100000003013,EK Synthetic,Accessories Product 1111
+3014,4100000003014,EK Synthetic,Coffee Product 1112
+3015,4100000003015,EK Synthetic,Tea Product 1113
+3016,4100000003016,EK Synthetic,Home Product 1114 Component 1
+3017,4100000003017,EK Synthetic,Home Product 1114 Component 2
+3018,4100000003018,EK Synthetic,Kitchen Product 1115
+3019,4100000003019,EK Synthetic,Wellness Product 1116
+3020,4100000003020,EK Synthetic,Accessories Product 1117
+3021,4100000003021,EK Synthetic,Coffee Product 1118
+3022,4100000003022,EK Synthetic,Tea Product 1119
+3023,4100000003023,EK Synthetic,Home Product 1120
+3024,4100000003024,EK Synthetic,Kitchen Product 1121 Component 1
+3025,4100000003025,EK Synthetic,Kitchen Product 1121 Component 2
+3026,4100000003026,EK Synthetic,Wellness Product 1122
+3027,4100000003027,EK Synthetic,Accessories Product 1123
+3028,4100000003028,EK Synthetic,Coffee Product 1124
+3029,4100000003029,EK Synthetic,Tea Product 1125
+3030,4100000003030,EK Synthetic,Home Product 1126
+3031,4100000003031,EK Synthetic,Kitchen Product 1127
+3032,4100000003032,EK Synthetic,Wellness Product 1128 Component 1
+3033,4100000003033,EK Synthetic,Wellness Product 1128 Component 2
+3034,4100000003034,EK Synthetic,Accessories Product 1129
+3035,4100000003035,EK Synthetic,Coffee Product 1130
+3036,4100000003036,EK Synthetic,Tea Product 1131
+3037,4100000003037,EK Synthetic,Home Product 1132
+3038,4100000003038,EK Synthetic,Kitchen Product 1133
+3039,4100000003039,EK Synthetic,Wellness Product 1134
+3040,4100000003040,EK Synthetic,Accessories Product 1135 Component 1
+3041,4100000003041,EK Synthetic,Accessories Product 1135 Component 2
+3042,4100000003042,EK Synthetic,Coffee Product 1136
+3043,4100000003043,EK Synthetic,Tea Product 1137
+3044,4100000003044,EK Synthetic,Home Product 1138
+3045,4100000003045,EK Synthetic,Kitchen Product 1139
+3046,4100000003046,EK Synthetic,Wellness Product 1140
+3047,4100000003047,EK Synthetic,Accessories Product 1141
+3048,4100000003048,EK Synthetic,Coffee Product 1142 Component 1
+3049,4100000003049,EK Synthetic,Coffee Product 1142 Component 2
+3050,4100000003050,EK Synthetic,Tea Product 1143
+3051,4100000003051,EK Synthetic,Home Product 1144
+3052,4100000003052,EK Synthetic,Kitchen Product 1145
+3053,4100000003053,EK Synthetic,Wellness Product 1146
+3054,4100000003054,EK Synthetic,Accessories Product 1147
+3055,4100000003055,EK Synthetic,Coffee Product 1148
+3056,4100000003056,EK Synthetic,Tea Product 1149 Component 1
+3057,4100000003057,EK Synthetic,Tea Product 1149 Component 2
+3058,4100000003058,EK Synthetic,Home Product 1150
+3059,4100000003059,EK Synthetic,Kitchen Product 1151
+3060,4100000003060,EK Synthetic,Wellness Product 1152
+3061,4100000003061,EK Synthetic,Accessories Product 1153
+3062,4100000003062,EK Synthetic,Coffee Product 1154
+3063,4100000003063,EK Synthetic,Tea Product 1155
+3064,4100000003064,EK Synthetic,Home Product 1156 Component 1
+3065,4100000003065,EK Synthetic,Home Product 1156 Component 2
+3066,4100000003066,EK Synthetic,Kitchen Product 1157
+3067,4100000003067,EK Synthetic,Wellness Product 1158
+3068,4100000003068,EK Synthetic,Accessories Product 1159
+3069,4100000003069,EK Synthetic,Coffee Product 1160
+3070,4100000003070,EK Synthetic,Tea Product 1161
+3071,4100000003071,EK Synthetic,Home Product 1162
+3072,4100000003072,EK Synthetic,Kitchen Product 1163 Component 1
+3073,4100000003073,EK Synthetic,Kitchen Product 1163 Component 2
+3074,4100000003074,EK Synthetic,Wellness Product 1164
+3075,4100000003075,EK Synthetic,Accessories Product 1165
+3076,4100000003076,EK Synthetic,Coffee Product 1166
+3077,4100000003077,EK Synthetic,Tea Product 1167
+3078,4100000003078,EK Synthetic,Home Product 1168
+3079,4100000003079,EK Synthetic,Kitchen Product 1169
+3080,4100000003080,EK Synthetic,Wellness Product 1170 Component 1
+3081,4100000003081,EK Synthetic,Wellness Product 1170 Component 2
+3082,4100000003082,EK Synthetic,Accessories Product 1171

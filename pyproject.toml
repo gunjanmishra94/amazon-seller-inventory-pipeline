@@ -1,0 +1,11 @@
+[project]
+name = "oos-fabric-demo"
+version = "0.1.0"
+description = "Amazon availability / OOS Gold pipeline, local Fabric (PySpark) demo"
+requires-python = ">=3.11"
+dependencies = [
+    "pyspark==3.5.0",
+]
+
+[tool.uv]
+package = false
